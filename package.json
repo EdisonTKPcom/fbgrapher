@@ -1,0 +1,25 @@
+{
+  "name": "fbgrapher",
+  "version": "0.0.1",
+  "description": "fbgrapher is interfacing facebook and instagram api to allow developers to integrate with their apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://EdisonTKPcom@bitbucket.org/EdisonTKPcom/fbgrapher.git"
+  },
+  "keywords": [
+    "facebook",
+    "facebook",
+    "graph",
+    "api",
+    "instagram",
+    "instagram",
+    "api"
+  ],
+  "author": "EdisonTKP <im@edisontkp.com> (http://edisontkp.com)",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/EdisonTKPcom/fbgrapher#readme"
+}
